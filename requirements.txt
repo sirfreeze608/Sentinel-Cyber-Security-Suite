@@ -1,0 +1,4 @@
+# Sentinel Cyber Security Suite - Root dependencies
+# Agent: see agent/requirements.txt
+# Management: see management/requirements.txt
+# Dashboard: see dashboard/package.json
